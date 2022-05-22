@@ -45,7 +45,7 @@ NPM is the easiest and fastest way to get started using Recharts. It is also the
 
 ```sh
 # latest stable
-$ npm install recharts
+$ npm install https://github.com/Exrelativity/recharts-18.git
 ```
 
 ### umd
