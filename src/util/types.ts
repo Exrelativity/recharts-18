@@ -994,7 +994,7 @@ const EventKeys = [
   'onTransitionEndCapture',
 ];
 
-// Animation Types => TODO: Should be moved when react-smooth is typescriptified.
+// Animation Types => TODO: Should be moved when ../react-smooth/src is typescriptified.
 export type AnimationTiming = 'ease' | 'ease-in' | 'ease-out' | 'ease-in-out' | 'linear';
 
 /** the offset of a chart, which define the blank space all around */

@@ -2,7 +2,7 @@
  * @fileOverview Render sectors of a funnel
  */
 import React, { PureComponent, ReactElement } from 'react';
-import Animate from 'react-smooth';
+import Animate from '../react-smooth/src';
 import classNames from 'classnames';
 import _ from 'lodash';
 import { Layer } from '../container/Layer';

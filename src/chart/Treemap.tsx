@@ -5,7 +5,7 @@ import _ from 'lodash';
  * @fileOverview TreemapChart
  */
 import React, { PureComponent } from 'react';
-import Smooth from 'react-smooth';
+import Smooth from '../react-smooth/src';
 
 import { Tooltip } from '../component/Tooltip';
 import { Layer } from '../container/Layer';

@@ -2,7 +2,7 @@
  * @fileOverview Line
  */
 import React, { PureComponent, ReactElement } from 'react';
-import Animate from 'react-smooth';
+import Animate from '../react-smooth/src';
 import classNames from 'classnames';
 import _ from 'lodash';
 import { Curve, CurveType, Props as CurveProps, Point as CurvePoint } from '../shape/Curve';

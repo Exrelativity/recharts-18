@@ -2,7 +2,7 @@
  * @fileOverview Radar
  */
 import React, { PureComponent, ReactElement, MouseEvent, SVGProps } from 'react';
-import Animate from 'react-smooth';
+import Animate from '../react-smooth/src';
 import classNames from 'classnames';
 import _ from 'lodash';
 import { interpolateNumber } from '../util/DataUtils';

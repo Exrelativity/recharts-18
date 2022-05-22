@@ -3,7 +3,7 @@
  */
 import React, { PureComponent, ReactElement } from 'react';
 import classNames from 'classnames';
-import Animate from 'react-smooth';
+import Animate from '../react-smooth/src';
 import _ from 'lodash';
 import { Rectangle, Props as RectangleProps } from '../shape/Rectangle';
 import { Layer } from '../container/Layer';

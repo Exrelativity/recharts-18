@@ -2,7 +2,7 @@
  * @fileOverview Render sectors of a pie
  */
 import React, { PureComponent, ReactElement, ReactNode, SVGProps } from 'react';
-import Animate from 'react-smooth';
+import Animate from '../react-smooth/src';
 import classNames from 'classnames';
 import _ from 'lodash';
 import { Layer } from '../container/Layer';

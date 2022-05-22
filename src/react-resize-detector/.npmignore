@@ -1,0 +1,13 @@
+.DS_Store
+*.log
+node_modules
+src
+test
+examples
+yarn.lock
+tsconfig.json
+.babelrc
+.eslintignore
+.eslintrc
+.gitignore
+.travis.yml

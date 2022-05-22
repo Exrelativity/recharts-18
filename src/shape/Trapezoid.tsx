@@ -3,7 +3,7 @@
  */
 import React, { PureComponent, SVGProps } from 'react';
 import classNames from 'classnames';
-import Animate from 'react-smooth';
+import Animate from '../react-smooth/src';
 import { AnimationTiming, filterProps } from '../util/types';
 
 const getTrapezoidPath = (x: number, y: number, upperWidth: number, lowerWidth: number, height: number) => {

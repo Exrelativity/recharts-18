@@ -3,7 +3,7 @@
  */
 import React, { PureComponent, ReactElement, ReactNode } from 'react';
 import classNames from 'classnames';
-import Animate from 'react-smooth';
+import Animate from '../react-smooth/src';
 import _ from 'lodash';
 import { Sector, Props as SectorProps } from '../shape/Sector';
 import { Layer } from '../container/Layer';

@@ -2,7 +2,7 @@
  * @fileOverview Tooltip
  */
 import React, { PureComponent, CSSProperties, ReactNode, ReactElement, SVGProps } from 'react';
-import { translateStyle } from 'react-smooth';
+import { translateStyle } from '../react-smooth/src';
 import _ from 'lodash';
 import classNames from 'classnames';
 import { DefaultTooltipContent, ValueType, NameType, Payload, Props as DefaultProps } from './DefaultTooltipContent';
